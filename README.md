@@ -1,2 +1,6 @@
-# Mental-Health-Analysis-using-Python-
-In this project , we have utilized the health care data to identify key insights identifying mental health issues in the society using Python and jupyter Notebook.
+# Mental Health Survey - Exploratory Data Analysis
+
+This repo contains a mini project of exploratory data analysis (EDA) base on a survey about mental health in tech found [here](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
+
+
+
